@@ -24,3 +24,6 @@
 
 ### 출력
 - [Hello World](https://www.acmicpc.net/problem/2557)
+
+### 수학
+- [막대기](https://www.acmicpc.net/problem/1094)
