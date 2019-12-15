@@ -8,9 +8,4 @@
     <artifactId>algorithm</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-    <modules>
-        <module>baekjoon</module>
-        <module>codility</module>
-    </modules>
-
 </project>
