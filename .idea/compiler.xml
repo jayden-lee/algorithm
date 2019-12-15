@@ -17,7 +17,7 @@
       <module name="algorithm" target="8" />
       <module name="baekjoon" target="1.8" />
       <module name="codility" target="1.8" />
-      <module name="common" target="1.7" />
+      <module name="common" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
